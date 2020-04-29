@@ -1,6 +1,6 @@
 # Datenvisualisierung mit Python
 
-Dies ist ein [(Jupyter-)Notebook](https://jupyter.org/) zur Einführung in die Datenvisualisierung mit Python. Hierbei wird stichprobenartig auf mehrere Arten von Graphen und Visualisierungstechniken eingegangen.
+Dies ist ein [(Jupyter-)Notebook](https://jupyter.org/) zur Einführung in die Datenvisualisierung mit Python. Hierbei wird anhand des [Iris-Datensatzes](https://www.kaggle.com/uciml/iris) stichprobenartig auf mehrere Arten von Graphen und Visualisierungstechniken eingegangen.
 
 ## 1 Was bietet Python an?
 
