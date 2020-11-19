@@ -21,7 +21,7 @@ Falls ihr euch einfach das Notebook ansehen wollt, klickt auf die Datei ``py_dat
 
 ### 3 b) Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lunghungnguyen/py-data-viz/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tylonghuang/py-data-viz/master)
 
 Um das Notebook testweise im Browser zu nutzen (ohne Installationen), auf den Button ``launch binder`` klicken. 
 
