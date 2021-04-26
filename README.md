@@ -39,4 +39,4 @@ Startet ihr jetzt abschließend mein Notebook und führt die Imports aus, sollte
 
 ___
 
-_Kontakt: lungnguyenhung@gmail.com_
+_Kontakt: long.ngyn@protonmail.com_
